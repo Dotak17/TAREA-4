@@ -35,6 +35,8 @@
 
 ![](https://user-images.githubusercontent.com/84998005/125183664-08b4fb80-e1de-11eb-81c7-59cf6609f8c7.png)
 
+![](https://user-images.githubusercontent.com/84998013/125211978-d358ee00-e26f-11eb-9eed-c26b70dfd979.png)
+
 -RESOLUCION DE EJERCICIOS O PROBLEMAS
 
 - TEMA #7
