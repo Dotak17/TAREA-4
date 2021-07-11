@@ -4,8 +4,9 @@
 
 - Identificar de que manera las leyes de Kirchhoff se relacionana con los circuitos serie-paralelo mediante el analisis de la parte practica mostrada en el libro, para saber utilizar los metdosos a estudiar en diferentes tipos de circuitos en donde no solo trbajen resistencias si no, tambien elementos electronicos como lo pueden ser diodos zener y transistores.
 
+-  Analizar los métodos de ramas, mallas y nodos para determinar la solución de aquellos circuitos que resultan se complejos por poseer más de una fuente de voltaje o que no se pueden resolver con las técnicas antes usadas.
 
--OBJETIVOS ESPECIFICOS
+-OBJETIVOS  ESPECÍFICOS 
 
 - Comprender los circuitos serie-paralelo con diagramas simples de resistencias para depues escalar con nuevos elementos electronicos.
 
@@ -13,8 +14,10 @@
 
 - Aplicar leyes de Kirchhoff para demostrar que los circuitos series paralelo tienen los mismos principios basicos que los circuitos serie y paralelo por separado.
 
+- Emplear los métodos de nodos y mallas para simplificar el circuito tanto como sea posible y así obtener una solución aplicando las leyes de ohm y Kirchhoff. 
+-  Convertir las fuentes de voltaje en fuentes de corriente para facilitar el análisis de los circuitos.
 
--MARCO TEORICO
+-MARCO  TEÓRICO
 
 - TEMA #7
 
@@ -58,9 +61,13 @@
 
 - EL uso de leyes de Kirchhoff ayuda a comprender la aplicacion de los mismos principios para el analisis de circuitos en los cuales existe variedad de elementos electronicos.
 
--BIBLIOGRAFIA
+- Descomponer los circuitos mediante los métodos estudiados facilitó el proceso para la solución de los mismos.
 
-khiuyijbn
+-Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren. 
+
+- BIBLIOGRAFÍA 
+
+
 
 
 
