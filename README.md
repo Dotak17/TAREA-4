@@ -63,7 +63,7 @@
 
 - Descomponer los circuitos mediante los métodos estudiados facilitó el proceso para la solución de los mismos.
 
--Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren. 
+-  Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren. 
 
 - BIBLIOGRAFÍA 
 
