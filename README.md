@@ -31,7 +31,9 @@
 
 -TEMA #8
 
+![](https://user-images.githubusercontent.com/84998005/125183666-0a7ebf00-e1de-11eb-8ae5-22d5e4204422.png)
 
+![](https://user-images.githubusercontent.com/84998005/125183664-08b4fb80-e1de-11eb-81c7-59cf6609f8c7.png)
 
 -RESOLUCION DE EJERCICIOS O PROBLEMAS
 
