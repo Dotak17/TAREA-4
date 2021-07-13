@@ -42,20 +42,13 @@
 Tema#7
 
 
-![](https://user-images.githubusercontent.com/84998013/125377587-d7aa0780-e352-11eb-8bcb-efb63d78585a.png)
+![](https://user-images.githubusercontent.com/84998013/125382595-8baf9080-e35b-11eb-9982-ef3f1033926d.png)
 
-![](https://user-images.githubusercontent.com/84998013/125377816-3e2f2580-e353-11eb-8b2f-32cc1d5d6ecb.png)
+![](https://user-images.githubusercontent.com/84998013/125382647-a97cf580-e35b-11eb-8cd3-ff18e89486da.png)
+ 
+![](https://user-images.githubusercontent.com/84998013/125382694-bef21f80-e35b-11eb-9d68-d4b7e1d0fc50.png)
 
-![](https://user-images.githubusercontent.com/84998013/125377985-88b0a200-e353-11eb-9a7a-5c72f9247afa.png)
-
-![](https://user-images.githubusercontent.com/84998013/125378094-c57c9900-e353-11eb-8c98-3c1d3ca73913.png)
-
-![](https://user-images.githubusercontent.com/84998013/125378225-fc52af00-e353-11eb-9f4f-ce2a46bd4a3f.png)
-
-![](https://user-images.githubusercontent.com/84998013/125378274-1096ac00-e354-11eb-998a-10064fa2ec11.png)
-
-![](https://user-images.githubusercontent.com/84998013/125378324-260bd600-e354-11eb-9c94-8728bcf9e040.png)
-
+![](https://user-images.githubusercontent.com/84998013/125382828-04aee800-e35c-11eb-949b-625ab6d0ad44.png)
 
 
 
@@ -119,7 +112,6 @@ Tema#7
 
 - BIBLIOGRAFÍA 
 
-
-
+-
 
 
