@@ -40,13 +40,7 @@
 -RESOLUCION DE EJERCICIOS O PROBLEMAS
 
 - TEMA #7
-![](https://user-images.githubusercontent.com/84998013/125377121-05428100-e352-11eb-8eb0-ff9942c6946c.png )
- 
-![](https://user-images.githubusercontent.com/84998013/125377240-4044b480-e352-11eb-8324-e816f66206c2.png)
-
-![](https://user-images.githubusercontent.com/84998013/125377313-6407fa80-e352-11eb-8959-2107f174b7a3.png)
-
-![](https://user-images.githubusercontent.com/84998013/125377370-7a15bb00-e352-11eb-8a49-154a96091859.png)
+![](https://user-images.githubusercontent.com/84998013/125377587-d7aa0780-e352-11eb-8bcb-efb63d78585a.png)
 
 
 
