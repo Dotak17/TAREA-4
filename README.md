@@ -50,7 +50,9 @@ Tema#7
 
 ![](https://user-images.githubusercontent.com/84998013/125382828-04aee800-e35c-11eb-949b-625ab6d0ad44.png)
 
+![](https://user-images.githubusercontent.com/84998005/125390734-f6b39400-e368-11eb-8217-f34d405b865a.png)
 
+![](https://user-images.githubusercontent.com/84998005/125390733-f5826700-e368-11eb-992e-ef2e3720f4f1.png)
 
 
 ![](https://user-images.githubusercontent.com/84397282/123870182-95ff7280-d8f7-11eb-96d4-52c51de6fef8.jpg)
