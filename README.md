@@ -56,6 +56,16 @@
 
 - TEMA #8
 
+![](https://user-images.githubusercontent.com/84998005/125373425-bf35ef00-e34a-11eb-8148-155343f2f524.png)
+
+![](https://user-images.githubusercontent.com/84998005/125373420-be04c200-e34a-11eb-8a81-0b9b8b7ef7e7.png)
+
+![](https://user-images.githubusercontent.com/84998005/125373419-bcd39500-e34a-11eb-846e-410caf900edd.png)
+
+![](https://user-images.githubusercontent.com/84998005/125373435-c1984900-e34a-11eb-9ef6-dc64c51e633c.png)
+
+![](https://user-images.githubusercontent.com/84998005/125373430-c0671c00-e34a-11eb-9a07-33c3d2149c58.png)
+
 
 
 -VIDEO
