@@ -114,6 +114,6 @@ Tema#7
 
 - BIBLIOGRAFÍA 
 
--
+- Circuitos en serie y en paralelo.(2020).mi electronica facil.Obtenido de:https://mielectronicafacil.com/analisis-de-circuitos/circuitos-en-serie-y-en-paralelo/#page-content
 
 
