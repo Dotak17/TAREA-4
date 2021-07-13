@@ -86,6 +86,22 @@ Tema#7
 ![](https://user-images.githubusercontent.com/84998005/125373430-c0671c00-e34a-11eb-9a07-33c3d2149c58.png)
 
 
+![](https://user-images.githubusercontent.com/84998013/125379619-77b56000-e356-11eb-9f65-68d8f79b0a6c.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379714-a0d5f080-e356-11eb-9f32-8b7b59b4040b.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379759-b64b1a80-e356-11eb-84e7-8346f17319fb.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379807-ccf17180-e356-11eb-9b1c-3f6e5a7b9c70.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379868-edb9c700-e356-11eb-8ba8-7e69b440278d.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379912-04f8b480-e357-11eb-9022-b80b597c983d.png)
+
+![](https://user-images.githubusercontent.com/84998013/125379973-1cd03880-e357-11eb-918e-07143e1050c6.png)
+
+![](https://user-images.githubusercontent.com/84998013/125380040-35d8e980-e357-11eb-9f2c-820ccdc24983.png)
+
 
 -VIDEO
 
@@ -97,6 +113,9 @@ Tema#7
 - Descomponer los circuitos mediante los métodos estudiados facilitó el proceso para la solución de los mismos.
 
 -  Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren. 
+
+- Se pudo notar la  diferencia entre los  metodos de analisis para determinar corrientes y voltajes como al aplicar la ley de voltaje de kirchoff para el analisis de mallas y en el de analisis de nodos la ley de corriente de kirchoff para determinar la diferencia de potencial entre otros.
+
 
 - BIBLIOGRAFÍA 
 
