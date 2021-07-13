@@ -39,7 +39,9 @@
 
 -RESOLUCION DE EJERCICIOS O PROBLEMAS
 
-- TEMA #7
+Tema#7
+
+
 ![](https://user-images.githubusercontent.com/84998013/125377587-d7aa0780-e352-11eb-8bcb-efb63d78585a.png)
 
 ![](https://user-images.githubusercontent.com/84998013/125377816-3e2f2580-e353-11eb-8b2f-32cc1d5d6ecb.png)
