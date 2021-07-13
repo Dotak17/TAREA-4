@@ -80,6 +80,17 @@ Tema#7
 
 ![](https://user-images.githubusercontent.com/84998005/125373430-c0671c00-e34a-11eb-9a07-33c3d2149c58.png)
 
+![](https://user-images.githubusercontent.com/84397282/125384512-a6373900-e35e-11eb-93b8-537a6189f3bd.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/125384514-a6cfcf80-e35e-11eb-9d8d-8ecb10a92afd.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/125384515-a7686600-e35e-11eb-9e05-3760717cc139.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/125384516-a7686600-e35e-11eb-8036-0e1c93db45cb.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/125384519-a7686600-e35e-11eb-90f1-aa02563c08a5.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/125384520-a800fc80-e35e-11eb-839d-07a6419b848b.jpg)
 
 ![](https://user-images.githubusercontent.com/84998013/125379619-77b56000-e356-11eb-9f65-68d8f79b0a6c.png)
 
@@ -99,6 +110,10 @@ Tema#7
 
 
 -VIDEO
+
+![](https://www.youtube.com/watch?v=3Gkui9sqotg)
+
+https://www.youtube.com/watch?v=3Gkui9sqotg
 
 
 -CONCLUSIONES
